@@ -1,0 +1,2 @@
+# ElevatorProblem
+A 15 floor skyscrapper in Kampala requires an elevator system. They have procured the hardware from China but unfortunately they do not have software to control the elevators' movements and they require you to build them this software. They plan to have only two elevators in the building controlled by the same elevator control module. You are required to optimize for responsiveness and not power consumption (they  do not want the building occupants to be delayed) - The best skills test I took
