@@ -1,2 +1,11 @@
-# ElevatorProblem
-A 15 floor skyscrapper in Kampala requires an elevator system. They have procured the hardware from China but unfortunately they do not have software to control the elevators' movements and they require you to build them this software. They plan to have only two elevators in the building controlled by the same elevator control module. You are required to optimize for responsiveness and not power consumption (they  do not want the building occupants to be delayed) - The best skills test I took
+Elevator simulation.
+===========================================================================================
+The Elevator simulation implements an elevator/lift algorithm that controlls elevator movements in a building.
+The simulation was developed in netebeans but can also be run in eclipse.
+Language used is java with swing for the UI.
+The application entry point is ELevatorGUI class under package org.elevator.
+1.Enter details in the simple displayed window as follows;
+    -Number of Flows:in our case 15
+    -Number of Elevators-2
+    -Number of peaple:this is the total number of people you may want to be used in simulation.
+The Left TextArea shows the outputs of the sumulation as the simulation is running.
